@@ -7,9 +7,13 @@ Install with Composer
 ```
 composer install
 ```
-### Run Green Test
-```
-./vendor/bin/phpunit --bootstrap index.php tests/CalculatorTest
-```
+### Run Test
 
-### Run Red Test
+Windows
+```
+vendor\bin\phpunit --bootstrap vendor\autoload.php tests\CalculatorTest.php
+```
+Linux & Mac
+```
+./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/CalculatorTest
+```
