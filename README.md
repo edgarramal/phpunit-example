@@ -1,6 +1,6 @@
 # Unit Testing Example - PHPUnit
 
-Get Started
+## Get Started
 
 ### Prerequisites
 PHP 7.0+
