@@ -1,9 +1,18 @@
-# example-unit-testing-php-unit
+# Unit Testing Example - PHPUnit
 
 Get Started
 
 ### Prerequisites
-Install with Composer
+PHP 7.0+
+
+Composer
+
+### Clone repository
+```
+git clone
+```
+
+### Install with Composer
 ```
 composer install
 ```
